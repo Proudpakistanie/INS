@@ -82,7 +82,7 @@ print '\x1b[1;96m ============================================================='
 print '\x1b[1;91m=======================================\n\x1b[1;96mAuthor  \x1b[1;93m: \x1b[1;92mHanief Aktivisme\n\x1b[1;96mYoutube \x1b[1;93m: \x1b[1;92mHanief Aktivis\n\x1b[1;96mFacebook  \x1b[1;93m: \x1b[1;92m hanief.aktivisme.86\n\x1b[1;96mHacker Crottt Di Dalam !!!\n\x1b[1;91m======================================='
 print ' \x1b[1;93m============================================================='
 print 'Copy Link Dan Kunjungi Link Untuk Mendapatkan Kode PIN ==> \x1b[1;92mhttps://shrinke.me/2ypUv'
-CorrectUsername = '0100100001000001010000110100010101010010'
+CorrectUsername = 'GILLANI'
 loop = 'true'
 while loop == 'true':
     username = raw_input('\x1b[1;96m[\xe2\x98\x86] \x1b[1;93mKode PIN \x1b[1;96m: ')
